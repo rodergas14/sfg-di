@@ -1,4 +1,4 @@
-package guru.springframework.services;
+package guru.springframework.sfgdi.services;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
