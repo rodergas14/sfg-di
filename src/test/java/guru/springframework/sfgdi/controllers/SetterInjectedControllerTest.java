@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import guru.springframework.sfgdi.services.ConstructorGreetingService;
+import guru.springframework.services.ConstructorGreetingService;
 
 class SetterInjectedControllerTest {
 

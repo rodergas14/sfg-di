@@ -1,4 +1,4 @@
-package guru.springframework.sfgdi.services;
+package guru.springframework.services;
 
 public interface GreetingService {
 	public String sayGreeting();	
