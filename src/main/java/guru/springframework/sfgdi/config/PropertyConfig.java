@@ -12,10 +12,12 @@ import guru.springframework.examplebeans.FakeJmsBroker;
 
 @Configuration
 //@PropertySource({"classpath:datasource.properties", "classpath:jms.properties"})
+/*
 @PropertySources({
 	@PropertySource("classpath:datasource.properties"),
 	@PropertySource("classpath:jms.properties")
 })
+*/
 public class PropertyConfig {
 	@Value("${guru.user}")
 	String user;
